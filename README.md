@@ -9,3 +9,4 @@
     <li>Elbow Method for finding the optimal number of clusters</li>
   </ol>
   
+<p>I used census dataset for this project. You can find in project folder</p>
