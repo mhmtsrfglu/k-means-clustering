@@ -1,3 +1,6 @@
+#Author: Mehmet Serefoglu
+#Github-repo: https://github.com/mhmtsrfglu/k-means-clustering.git
+
 library(caret)
 library(ggfortify)
 library(tidyverse)  # data manipulation
